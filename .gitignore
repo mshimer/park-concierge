@@ -6,4 +6,3 @@ __pycache__/
 .env
 .DS_Store
 data/chroma/
-docs2/
