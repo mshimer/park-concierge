@@ -1,0 +1,10 @@
+# Graceful failure: a lookup that returns null must not become an invented profile.
+id: unknown_customer
+prompt: >
+  What do you recommend for customer 99999?
+must_call: [customer_lookup]
+rubric:
+  - states clearly that no customer with that id exists
+  - does not invent any detail about customer 99999, such as a name, home state or pass tier
+  - does not present a confident personalised recommendation as if the customer were found
+min_score: 4

@@ -1,0 +1,250 @@
+{
+  "acad": {
+    "elevation_ft_max": 1530,
+    "elevation_ft_min": 0
+  },
+  "arch": {
+    "elevation_ft_max": 5653,
+    "elevation_ft_min": 4085
+  },
+  "badl": {
+    "elevation_ft_max": 3340,
+    "elevation_ft_min": 2460
+  },
+  "bibe": {
+    "elevation_ft_max": 7825,
+    "elevation_ft_min": 1800
+  },
+  "bisc": {
+    "elevation_ft_max": 10,
+    "elevation_ft_min": 0
+  },
+  "blca": {
+    "elevation_ft_max": 8775,
+    "elevation_ft_min": 5400
+  },
+  "brca": {
+    "elevation_ft_max": 9105,
+    "elevation_ft_min": 6620
+  },
+  "cany": {
+    "elevation_ft_max": 7120,
+    "elevation_ft_min": 3700
+  },
+  "care": {
+    "elevation_ft_max": 8960,
+    "elevation_ft_min": 3877
+  },
+  "cave": {
+    "elevation_ft_max": 6520,
+    "elevation_ft_min": 3595
+  },
+  "chis": {
+    "elevation_ft_max": 2450,
+    "elevation_ft_min": 0
+  },
+  "cong": {
+    "elevation_ft_max": 140,
+    "elevation_ft_min": 80
+  },
+  "crla": {
+    "elevation_ft_max": 8929,
+    "elevation_ft_min": 3980
+  },
+  "cuva": {
+    "elevation_ft_max": 1164,
+    "elevation_ft_min": 590
+  },
+  "dena": {
+    "elevation_ft_max": 20310,
+    "elevation_ft_min": 230
+  },
+  "deva": {
+    "elevation_ft_max": 11049,
+    "elevation_ft_min": -282
+  },
+  "drto": {
+    "elevation_ft_max": 10,
+    "elevation_ft_min": 0
+  },
+  "ever": {
+    "elevation_ft_max": 8,
+    "elevation_ft_min": 0
+  },
+  "gaar": {
+    "elevation_ft_max": 8510,
+    "elevation_ft_min": 200
+  },
+  "glac": {
+    "elevation_ft_max": 10466,
+    "elevation_ft_min": 3150
+  },
+  "glba": {
+    "elevation_ft_max": 15300,
+    "elevation_ft_min": 0
+  },
+  "grba": {
+    "elevation_ft_max": 13063,
+    "elevation_ft_min": 5100
+  },
+  "grca": {
+    "elevation_ft_max": 8800,
+    "elevation_ft_min": 2460
+  },
+  "grsa": {
+    "elevation_ft_max": 13604,
+    "elevation_ft_min": 7520
+  },
+  "grsm": {
+    "elevation_ft_max": 6643,
+    "elevation_ft_min": 875
+  },
+  "grte": {
+    "elevation_ft_max": 13775,
+    "elevation_ft_min": 6320
+  },
+  "gumo": {
+    "elevation_ft_max": 8751,
+    "elevation_ft_min": 3650
+  },
+  "hale": {
+    "elevation_ft_max": 10023,
+    "elevation_ft_min": 0
+  },
+  "havo": {
+    "elevation_ft_max": 13679,
+    "elevation_ft_min": 0
+  },
+  "hosp": {
+    "elevation_ft_max": 1405,
+    "elevation_ft_min": 580
+  },
+  "indu": {
+    "elevation_ft_max": 1000,
+    "elevation_ft_min": 580
+  },
+  "isro": {
+    "elevation_ft_max": 1394,
+    "elevation_ft_min": 600
+  },
+  "jeff": {
+    "elevation_ft_max": 630,
+    "elevation_ft_min": 410
+  },
+  "jotr": {
+    "elevation_ft_max": 5814,
+    "elevation_ft_min": 536
+  },
+  "katm": {
+    "elevation_ft_max": 7606,
+    "elevation_ft_min": 0
+  },
+  "kefj": {
+    "elevation_ft_max": 6450,
+    "elevation_ft_min": 0
+  },
+  "kica": {
+    "elevation_ft_max": 14248,
+    "elevation_ft_min": 1370
+  },
+  "kova": {
+    "elevation_ft_max": 4700,
+    "elevation_ft_min": 50
+  },
+  "lacl": {
+    "elevation_ft_max": 10194,
+    "elevation_ft_min": 0
+  },
+  "lavo": {
+    "elevation_ft_max": 10457,
+    "elevation_ft_min": 5300
+  },
+  "maca": {
+    "elevation_ft_max": 925,
+    "elevation_ft_min": 450
+  },
+  "meve": {
+    "elevation_ft_max": 8572,
+    "elevation_ft_min": 6015
+  },
+  "mora": {
+    "elevation_ft_max": 14410,
+    "elevation_ft_min": 1600
+  },
+  "noca": {
+    "elevation_ft_max": 9220,
+    "elevation_ft_min": 400
+  },
+  "npsa": {
+    "elevation_ft_max": 3160,
+    "elevation_ft_min": 0
+  },
+  "olym": {
+    "elevation_ft_max": 7980,
+    "elevation_ft_min": 0
+  },
+  "pefo": {
+    "elevation_ft_max": 6235,
+    "elevation_ft_min": 5300
+  },
+  "pinn": {
+    "elevation_ft_max": 3304,
+    "elevation_ft_min": 820
+  },
+  "redw": {
+    "elevation_ft_max": 3170,
+    "elevation_ft_min": 0
+  },
+  "romo": {
+    "elevation_ft_max": 14259,
+    "elevation_ft_min": 7860
+  },
+  "sagu": {
+    "elevation_ft_max": 8666,
+    "elevation_ft_min": 2180
+  },
+  "sequ": {
+    "elevation_ft_max": 14505,
+    "elevation_ft_min": 1370
+  },
+  "shen": {
+    "elevation_ft_max": 4051,
+    "elevation_ft_min": 560
+  },
+  "thro": {
+    "elevation_ft_max": 2855,
+    "elevation_ft_min": 1850
+  },
+  "viis": {
+    "elevation_ft_max": 1277,
+    "elevation_ft_min": 0
+  },
+  "voya": {
+    "elevation_ft_max": 1400,
+    "elevation_ft_min": 1100
+  },
+  "whsa": {
+    "elevation_ft_max": 4116,
+    "elevation_ft_min": 3890
+  },
+  "wica": {
+    "elevation_ft_max": 5013,
+    "elevation_ft_min": 3600
+  },
+  "wrst": {
+    "elevation_ft_max": 18008,
+    "elevation_ft_min": 0
+  },
+  "yell": {
+    "elevation_ft_max": 11358,
+    "elevation_ft_min": 5282
+  },
+  "yose": {
+    "elevation_ft_max": 13114,
+    "elevation_ft_min": 2127
+  },
+  "zion": {
+    "elevation_ft_max": 8726,
+    "elevation_ft_min": 3666
+  }
+}

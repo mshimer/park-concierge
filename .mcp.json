@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "park": {
+      "command": "uv",
+      "args": ["run", "--directory", "${CLAUDE_PROJECT_DIR:-.}", "park-mcp"]
+    }
+  }
+}

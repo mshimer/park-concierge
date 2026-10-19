@@ -1,0 +1,47 @@
+[project]
+name = "park-concierge"
+version = "0.1.0"
+description = "Agentic POC: LangGraph agent + MCP tools over Postgres and Chroma, with LLM-judged evals in testcontainers"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.9",
+    "httpx>=0.28",
+    "langchain-chroma>=1.1.0",
+    "langchain-core>=1.6.4",
+    "langchain-openai>=1.6.5",
+    "langchain-text-splitters>=1.1.2",
+    "langgraph>=1.2.12",
+    "langsmith>=0.4",
+    "mcp>=2.2",
+    "psycopg[binary]>=3.2",
+    "pydantic>=2",
+    "python-dotenv>=1.2.3",
+    "pyyaml>=6",
+]
+
+[dependency-groups]
+dev = [
+    "anyio>=4",
+    "pytest>=8",
+    "testcontainers[postgres]>=4",
+]
+
+[project.scripts]
+park-ingest = "park_core.ingest:main"
+park-mcp = "park_mcp.__main__:main"
+park-agent = "park_agent.__main__:main"
+
+[build-system]
+requires = ["uv_build"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = ["park_core", "park_mcp", "park_agent", "park_evals"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+log_level = "INFO"
+markers = ["eval: spends LLM tokens; opt in with -m eval"]
+# The default suite is free and needs no API key. `-m eval` on the command line overrides this.
+addopts = "-m 'not eval'"

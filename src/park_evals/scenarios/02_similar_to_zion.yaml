@@ -1,0 +1,13 @@
+# Exercises the vector store's likeness search - the clustering showcase.
+id: similar_to_zion
+prompt: >
+  A visitor loved Zion and wants somewhere with a similar feel for their next trip.
+  What would you suggest, and why are they alike?
+must_call: [parks_similar_to]
+rubric:
+  - recommends at least two parks drawn from the retrieved context
+  - does not recommend Zion itself
+  # Checkable rather than all-or-nothing: the earlier wording made the judge audit every
+  # explanation for completeness and fail the answer over one park it felt was underexplained.
+  - for at least two of its suggestions, gives a reason for the resemblance to Zion that the retrieved context supports
+min_score: 4

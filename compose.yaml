@@ -1,0 +1,17 @@
+# Internal data source for the demo. `docker compose up -d` then `uv run pytest`.
+# NOTE: host port 5433, not 5432 - outbox-demo publishes 5432, so both demos can run at once.
+# The eval suite does not use this; testcontainers starts its own throwaway Postgres.
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: parks
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports: ["5433:5432"]
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres", "-d", "parks"]
+      interval: 2s
+      retries: 30

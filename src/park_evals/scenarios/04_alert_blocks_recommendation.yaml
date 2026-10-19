@@ -1,0 +1,12 @@
+# A seeded closure must be surfaced, not quietly ignored.
+id: alert_blocks_recommendation
+prompt: >
+  Customer 1042 is thinking about Big Bend this spring and wants to stay in the Chisos Basin.
+  Is there anything they should know before booking?
+must_call: [parks_alerts]
+rubric:
+  # Two criteria, not three: the dropped one ("makes clear lodging is unavailable") restated the
+  # first, and the judge kept failing the answer on the duplicate while passing the original.
+  - reports that the Chisos Basin campground, lodge and restaurant are closed
+  - mentions that the closure is for water system work or that no water is available in the basin
+min_score: 4

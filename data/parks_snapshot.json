@@ -1,0 +1,1641 @@
+[
+  {
+    "activities": [
+      "Hiking",
+      "Tidepooling",
+      "Kayaking",
+      "Beachcombing",
+      "Wildlife Watching",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Granite peaks meet the Atlantic on Mount Desert Island. Rocky headlands, cobble beaches, carriage roads and the first sunrise in the contiguous United States from the summit of Cadillac Mountain. Cool, humid summers and long snowy winters.",
+    "designation": "National Park",
+    "lat": 44.34,
+    "lon": -68.27,
+    "name": "Acadia National Park",
+    "park_code": "acad",
+    "states": "ME",
+    "topics": [
+      "Coasts and Shorelines",
+      "Tidepools",
+      "Marine Life",
+      "Beaches",
+      "Ocean"
+    ],
+    "weather_info": "Cool, humid summers and long snowy winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Over 2,000 natural sandstone arches above the high Colorado Plateau desert near Moab. Slickrock fins, balanced rocks and red rock spires. Blazing dry summers, mild spring and fall, light winter snow.",
+    "designation": "National Park",
+    "lat": 38.73,
+    "lon": -109.59,
+    "name": "Arches National Park",
+    "park_code": "arch",
+    "states": "UT",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Blazing dry summers, mild spring and fall, light winter snow."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Sharply eroded buttes, pinnacles and spires rising from the largest protected mixed-grass prairie in the country. Rich fossil beds, bison and bighorn sheep. Hot summers, bitter windy winters.",
+    "designation": "National Park",
+    "lat": 43.75,
+    "lon": -102.5,
+    "name": "Badlands National Park",
+    "park_code": "badl",
+    "states": "SD",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Hot summers, bitter windy winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [
+      {
+        "category": "Park Closure",
+        "description": "The Chisos Basin campground, lodge and restaurant are closed through the spring season for emergency water system replacement. Day use of Chisos Basin trails remains open. No water is available in the basin - carry all you need.",
+        "title": "Chisos Basin water system repairs"
+      }
+    ],
+    "description": "Where the Chihuahuan Desert meets the Rio Grande and the Chisos Mountains. Vast, remote and famously dark at night. Desert floor stays warm and mild through winter and spring while the high Chisos stay cool.",
+    "designation": "National Park",
+    "lat": 29.25,
+    "lon": -103.25,
+    "name": "Big Bend National Park",
+    "park_code": "bibe",
+    "states": "TX",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Desert floor stays warm and mild through winter and spring while the high Chisos stay cool."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Ninety-five percent water: turquoise bay, living coral reefs, mangrove shoreline and the northernmost Florida Keys. Reached almost entirely by boat. Warm and humid year round, with a wet summer season.",
+    "designation": "National Park",
+    "lat": 25.49,
+    "lon": -80.21,
+    "name": "Biscayne National Park",
+    "park_code": "bisc",
+    "states": "FL",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Warm and humid year round, with a wet summer season."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Canyoneering",
+      "Scenic Driving",
+      "River Rafting",
+      "Photography"
+    ],
+    "alerts": [],
+    "description": "A narrow, sheer-walled gorge so deep and steep that parts of it get only 33 minutes of sunlight a day. Dramatic rim overlooks above the Gunnison River. Snowy winters close the north rim road.",
+    "designation": "National Park",
+    "lat": 38.57,
+    "lon": -107.72,
+    "name": "Black Canyon of the Gunnison National Park",
+    "park_code": "blca",
+    "states": "CO",
+    "topics": [
+      "Canyons",
+      "Geology",
+      "Erosion",
+      "Rivers and Streams",
+      "Wilderness"
+    ],
+    "weather_info": "Snowy winters close the north rim road."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Not a canyon but a series of natural amphitheaters filled with thousands of orange and pink hoodoos. High elevation means cool summers, heavy winter snow, and some of the darkest skies in the country.",
+    "designation": "National Park",
+    "lat": 37.59,
+    "lon": -112.19,
+    "name": "Bryce Canyon National Park",
+    "park_code": "brca",
+    "states": "UT",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "High elevation means cool summers, heavy winter snow, and some of the darkest skies in the country."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Canyoneering",
+      "Scenic Driving",
+      "River Rafting",
+      "Photography"
+    ],
+    "alerts": [],
+    "description": "A high desert carved into countless canyons, mesas and buttes by the Green and Colorado rivers. Four remote districts, little water, and long views. Hot summers, cold clear winters.",
+    "designation": "National Park",
+    "lat": 38.2,
+    "lon": -109.93,
+    "name": "Canyonlands National Park",
+    "park_code": "cany",
+    "states": "UT",
+    "topics": [
+      "Canyons",
+      "Geology",
+      "Erosion",
+      "Rivers and Streams",
+      "Wilderness"
+    ],
+    "weather_info": "Hot summers, cold clear winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "A hundred-mile wrinkle in the earth called the Waterpocket Fold, with cliffs, domes, slot canyons and historic Fruita orchards. Dry and sunny, with hot summers and cool nights.",
+    "designation": "National Park",
+    "lat": 38.37,
+    "lon": -111.26,
+    "name": "Capitol Reef National Park",
+    "park_code": "care",
+    "states": "UT",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Dry and sunny, with hot summers and cool nights."
+  },
+  {
+    "activities": [
+      "Cave Tours",
+      "Hiking",
+      "Camping",
+      "Birdwatching"
+    ],
+    "alerts": [],
+    "description": "More than 119 known caves beneath the Chihuahuan Desert, including an enormous chamber reached by elevator or a steep natural entrance. Famous summer evening bat flights. The cave stays 56 degrees year round.",
+    "designation": "National Park",
+    "lat": 32.18,
+    "lon": -104.56,
+    "name": "Carlsbad Caverns National Park",
+    "park_code": "cave",
+    "states": "NM",
+    "topics": [
+      "Caves and Karst",
+      "Geology",
+      "Bats",
+      "Underground"
+    ],
+    "weather_info": "The cave stays 56 degrees year round."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Five rugged islands off the southern California coast with sea caves, kelp forests and species found nowhere else. Reached by boat, no services on most islands. Cool, foggy and windy.",
+    "designation": "National Park",
+    "lat": 34.01,
+    "lon": -119.42,
+    "name": "Channel Islands National Park",
+    "park_code": "chis",
+    "states": "CA",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Cool, foggy and windy."
+  },
+  {
+    "activities": [
+      "Birdwatching",
+      "Kayaking",
+      "Canoeing",
+      "Boat Tours",
+      "Fishing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "The largest intact old-growth bottomland hardwood forest left in the southeast, with some of the tallest trees in eastern North America. Floodplain boardwalks and blackwater paddling. Hot humid summers, mild winters.",
+    "designation": "National Park",
+    "lat": 33.79,
+    "lon": -80.78,
+    "name": "Congaree National Park",
+    "park_code": "cong",
+    "states": "SC",
+    "topics": [
+      "Wetlands",
+      "Swamps",
+      "Birds",
+      "Marine Life",
+      "Water Quality"
+    ],
+    "weather_info": "Hot humid summers, mild winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [
+      {
+        "category": "Road Closure",
+        "description": "Most of Rim Drive and the north entrance are closed by deep snow. Only the south entrance and Rim Village are plowed in winter.",
+        "title": "Rim Drive closed by snow"
+      }
+    ],
+    "description": "The deepest lake in the United States, an impossibly blue caldera left by the collapse of an ancient volcano. Heavy snow buries the rim most of the year; the rim road is only fully open in late summer.",
+    "designation": "National Park",
+    "lat": 42.94,
+    "lon": -122.1,
+    "name": "Crater Lake National Park",
+    "park_code": "crla",
+    "states": "OR",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Heavy snow buries the rim most of the year; the rim road is only fully open in late summer."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "A pastoral river valley between Cleveland and Akron with waterfalls, towpath trail, wetlands and reforested farmland. Easy, gentle terrain and good accessible paths. Four distinct seasons.",
+    "designation": "National Park",
+    "lat": 41.26,
+    "lon": -81.57,
+    "name": "Cuyahoga Valley National Park",
+    "park_code": "cuva",
+    "states": "OH",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Four distinct seasons."
+  },
+  {
+    "activities": [
+      "Backcountry Hiking",
+      "Wildlife Watching",
+      "Flightseeing",
+      "Mountaineering",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Six million acres of subarctic taiga and tundra around North America's highest peak. A single ninety-mile road, no marked trails in most of the park, and grizzly, caribou, Dall sheep and wolves. Brief cool summer, severe winter.",
+    "designation": "National Park",
+    "lat": 63.33,
+    "lon": -150.5,
+    "name": "Denali National Park and Preserve",
+    "park_code": "dena",
+    "states": "AK",
+    "topics": [
+      "Arctic",
+      "Tundra",
+      "Glaciers",
+      "Wildlife",
+      "Wilderness"
+    ],
+    "weather_info": "Brief cool summer, severe winter."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [
+      {
+        "category": "Danger",
+        "description": "Summer temperatures regularly exceed 120F. Hiking at low elevation after 10am is strongly discouraged. Multiple heat fatalities have occurred.",
+        "title": "Extreme heat danger June through September"
+      }
+    ],
+    "description": "The hottest, driest and lowest place in North America. Salt flats below sea level, sand dunes, badlands and snow-capped peaks above. Winter and early spring are pleasant; summer is dangerously hot.",
+    "designation": "National Park",
+    "lat": 36.51,
+    "lon": -117.0,
+    "name": "Death Valley National Park",
+    "park_code": "deva",
+    "states": "CA,NV",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Winter and early spring are pleasant; summer is dangerously hot."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Seven small islands seventy miles west of Key West, built around a massive nineteenth-century brick fort, surrounded by coral reefs and shipwrecks. Reached only by boat or seaplane. Warm and breezy year round.",
+    "designation": "National Park",
+    "lat": 24.63,
+    "lon": -82.87,
+    "name": "Dry Tortugas National Park",
+    "park_code": "drto",
+    "states": "FL",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Warm and breezy year round."
+  },
+  {
+    "activities": [
+      "Birdwatching",
+      "Kayaking",
+      "Canoeing",
+      "Boat Tours",
+      "Fishing",
+      "Wildlife Watching"
+    ],
+    "alerts": [
+      {
+        "category": "Information",
+        "description": "From June through November mosquito activity in the Flamingo and Shark Valley areas can be extreme and may make camping unpleasant.",
+        "title": "Mosquito levels high in the wet season"
+      }
+    ],
+    "description": "The largest subtropical wilderness in the United States, a slow-moving river of sawgrass, mangrove and cypress. Alligators, manatees, crocodiles and over 360 bird species. Mild dry winters are the best season; summers are hot, wet and buggy.",
+    "designation": "National Park",
+    "lat": 25.29,
+    "lon": -80.9,
+    "name": "Everglades National Park",
+    "park_code": "ever",
+    "states": "FL",
+    "topics": [
+      "Wetlands",
+      "Swamps",
+      "Birds",
+      "Marine Life",
+      "Water Quality"
+    ],
+    "weather_info": "Mild dry winters are the best season; summers are hot, wet and buggy."
+  },
+  {
+    "activities": [
+      "Backcountry Hiking",
+      "Wildlife Watching",
+      "Flightseeing",
+      "Mountaineering",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Entirely above the Arctic Circle with no roads, no trails and no campgrounds. Treeless tundra, glacial valleys and the central Brooks Range. Access by bush plane only.",
+    "designation": "National Park",
+    "lat": 67.78,
+    "lon": -153.3,
+    "name": "Gates of the Arctic National Park and Preserve",
+    "park_code": "gaar",
+    "states": "AK",
+    "topics": [
+      "Arctic",
+      "Tundra",
+      "Glaciers",
+      "Wildlife",
+      "Wilderness"
+    ],
+    "weather_info": "Access by bush plane only."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "An urban park on the St. Louis riverfront centered on a 630-foot stainless steel arch commemorating westward expansion, with a museum below and a tram to the top. Fully paved and highly accessible.",
+    "designation": "National Park",
+    "lat": 38.62,
+    "lon": -90.18,
+    "name": "Gateway Arch National Park",
+    "park_code": "jeff",
+    "states": "MO",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Fully paved and highly accessible."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [
+      {
+        "category": "Road Closure",
+        "description": "Seasonal snow closure. The alpine section of Going-to-the-Sun Road including Logan Pass typically does not open until late June or early July.",
+        "title": "Going-to-the-Sun Road closed beyond Avalanche Creek"
+      }
+    ],
+    "description": "A million acres of carved peaks, hanging valleys, turquoise lakes and remnant glaciers along the Continental Divide. The Going-to-the-Sun Road is a highlight but is snowbound well into summer.",
+    "designation": "National Park",
+    "lat": 48.8,
+    "lon": -114.0,
+    "name": "Glacier National Park",
+    "park_code": "glac",
+    "states": "MT",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "The Going-to-the-Sun Road is a highlight but is snowbound well into summer."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Tidepooling",
+      "Kayaking",
+      "Beachcombing",
+      "Wildlife Watching",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Tidewater glaciers calving into cold saltwater fjords, with humpback whales, sea otters and a landscape still rebounding from ice. Mostly experienced by boat. Cool, wet and overcast.",
+    "designation": "National Park",
+    "lat": 58.5,
+    "lon": -137.0,
+    "name": "Glacier Bay National Park and Preserve",
+    "park_code": "glba",
+    "states": "AK",
+    "topics": [
+      "Coasts and Shorelines",
+      "Tidepools",
+      "Marine Life",
+      "Beaches",
+      "Ocean"
+    ],
+    "weather_info": "Cool, wet and overcast."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Canyoneering",
+      "Scenic Driving",
+      "River Rafting",
+      "Photography"
+    ],
+    "alerts": [],
+    "description": "A mile-deep, 277-mile-long gorge exposing two billion years of rock layers along the Colorado River. The South Rim is open all year; the higher North Rim closes in winter. Inner canyon summer heat is extreme.",
+    "designation": "National Park",
+    "lat": 36.11,
+    "lon": -112.11,
+    "name": "Grand Canyon National Park",
+    "park_code": "grca",
+    "states": "AZ",
+    "topics": [
+      "Canyons",
+      "Geology",
+      "Erosion",
+      "Rivers and Streams",
+      "Wilderness"
+    ],
+    "weather_info": "Inner canyon summer heat is extreme."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Abrupt granite peaks rising straight out of the sagebrush flats of Jackson Hole, with glacial lakes, moose, elk and bison. Short cool summers, deep snowy winters.",
+    "designation": "National Park",
+    "lat": 43.79,
+    "lon": -110.68,
+    "name": "Grand Teton National Park",
+    "park_code": "grte",
+    "states": "WY",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Short cool summers, deep snowy winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "An isolated desert mountain range with ancient bristlecone pines, a small glacier, and the ornate Lehman Caves. Among the darkest night skies in the lower 48. Snow closes the high scenic drive.",
+    "designation": "National Park",
+    "lat": 38.98,
+    "lon": -114.3,
+    "name": "Great Basin National Park",
+    "park_code": "grba",
+    "states": "NV",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Snow closes the high scenic drive."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "The tallest sand dunes in North America piled against the Sangre de Cristo Mountains, with a seasonal creek at their base. Sand surface temperatures soar in summer afternoons.",
+    "designation": "National Park",
+    "lat": 37.73,
+    "lon": -105.51,
+    "name": "Great Sand Dunes National Park and Preserve",
+    "park_code": "grsa",
+    "states": "CO",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Sand surface temperatures soar in summer afternoons."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [
+      {
+        "category": "Information",
+        "description": "All vehicles parking for more than 15 minutes must display a valid parking tag, available daily, weekly or annually.",
+        "title": "Parking tag required"
+      }
+    ],
+    "description": "Ancient, misty, densely forested southern Appalachian ridges with extraordinary biodiversity, historic homesteads and spring wildflowers. The most visited national park. Humid summers, mild snowy winters.",
+    "designation": "National Park",
+    "lat": 35.68,
+    "lon": -83.53,
+    "name": "Great Smoky Mountains National Park",
+    "park_code": "grsm",
+    "states": "TN,NC",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Humid summers, mild snowy winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "An uplifted ancient marine fossil reef rising from the Chihuahuan Desert, with the highest peak in Texas and a hidden high-country forest. Spectacular autumn color in McKittrick Canyon.",
+    "designation": "National Park",
+    "lat": 31.92,
+    "lon": -104.87,
+    "name": "Guadalupe Mountains National Park",
+    "park_code": "gumo",
+    "states": "TX",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Spectacular autumn color in McKittrick Canyon."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [
+      {
+        "category": "Information",
+        "description": "Entry to the summit area between 3am and 7am requires a reservation obtained online in advance. Reservations are released 60 days ahead.",
+        "title": "Sunrise viewing requires an advance reservation"
+      }
+    ],
+    "description": "A vast dormant volcanic summit depression above the clouds, plus a separate rainforest and waterfall coast at Kipahulu. Freezing sunrise temperatures at the summit, tropical warmth at sea level.",
+    "designation": "National Park",
+    "lat": 20.72,
+    "lon": -156.17,
+    "name": "Haleakala National Park",
+    "park_code": "hale",
+    "states": "HI",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Freezing sunrise temperatures at the summit, tropical warmth at sea level."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [],
+    "description": "Two active volcanoes, Kilauea and Mauna Loa, with steam vents, lava tubes, craters and newly formed coastline. Landscapes change with each eruption. Warm at the coast, cool and rainy at the summit.",
+    "designation": "National Park",
+    "lat": 19.38,
+    "lon": -155.2,
+    "name": "Hawaii Volcanoes National Park",
+    "park_code": "havo",
+    "states": "HI",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Warm at the coast, cool and rainy at the summit."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "Thermal springs flowing out of Hot Springs Mountain, with a historic row of early twentieth-century bathhouses and shaded urban trails. The smallest national park. Hot humid summers, mild winters.",
+    "designation": "National Park",
+    "lat": 34.51,
+    "lon": -93.05,
+    "name": "Hot Springs National Park",
+    "park_code": "hosp",
+    "states": "AR",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Hot humid summers, mild winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Tidepooling",
+      "Kayaking",
+      "Beachcombing",
+      "Wildlife Watching",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Fifteen miles of Lake Michigan shoreline with high sand dunes, oak savanna, bogs and marshes crowded against heavy industry. Remarkable plant diversity. Hot humid summers, cold windy winters.",
+    "designation": "National Park",
+    "lat": 41.65,
+    "lon": -87.05,
+    "name": "Indiana Dunes National Park",
+    "park_code": "indu",
+    "states": "IN",
+    "topics": [
+      "Coasts and Shorelines",
+      "Tidepools",
+      "Marine Life",
+      "Beaches",
+      "Ocean"
+    ],
+    "weather_info": "Hot humid summers, cold windy winters."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "A remote wilderness island in Lake Superior with no roads or cars, reached by ferry or seaplane, known for backpacking, canoeing, wolves and moose. Closed entirely in winter.",
+    "designation": "National Park",
+    "lat": 48.1,
+    "lon": -88.55,
+    "name": "Isle Royale National Park",
+    "park_code": "isro",
+    "states": "MI",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Closed entirely in winter."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Where the high Mojave and low Colorado deserts meet, with twisted Joshua trees, enormous granite boulder piles, hidden oases and world-class rock climbing. Winter and spring are mild and pleasant; summer is severe.",
+    "designation": "National Park",
+    "lat": 33.79,
+    "lon": -115.9,
+    "name": "Joshua Tree National Park",
+    "park_code": "jotr",
+    "states": "CA",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Winter and spring are mild and pleasant; summer is severe."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [],
+    "description": "Brown bears fishing for salmon at Brooks Falls, plus the ash-filled Valley of Ten Thousand Smokes left by a massive 1912 eruption. Reached by float plane. Cool, wet and windy.",
+    "designation": "National Park",
+    "lat": 58.5,
+    "lon": -155.0,
+    "name": "Katmai National Park and Preserve",
+    "park_code": "katm",
+    "states": "AK",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Cool, wet and windy."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Tidepooling",
+      "Kayaking",
+      "Beachcombing",
+      "Wildlife Watching",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "An immense icefield spilling nearly forty glaciers down to the Gulf of Alaska, with puffins, sea lions, orcas and whales in the fjords below. Mostly seen by boat; one glacier is road accessible.",
+    "designation": "National Park",
+    "lat": 59.92,
+    "lon": -149.65,
+    "name": "Kenai Fjords National Park",
+    "park_code": "kefj",
+    "states": "AK",
+    "topics": [
+      "Coasts and Shorelines",
+      "Tidepools",
+      "Marine Life",
+      "Beaches",
+      "Ocean"
+    ],
+    "weather_info": "Mostly seen by boat; one glacier is road accessible."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Giant sequoia groves and one of the deepest canyons in North America, backed by a huge roadless stretch of the High Sierra. Deep snow closes the high country much of the year.",
+    "designation": "National Park",
+    "lat": 36.89,
+    "lon": -118.55,
+    "name": "Kings Canyon National Park",
+    "park_code": "kica",
+    "states": "CA",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Deep snow closes the high country much of the year."
+  },
+  {
+    "activities": [
+      "Backcountry Hiking",
+      "Wildlife Watching",
+      "Flightseeing",
+      "Mountaineering",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Arctic sand dunes, boreal forest and the Kobuk River crossed twice yearly by a vast caribou migration. No roads, no trails, no facilities.",
+    "designation": "National Park",
+    "lat": 67.33,
+    "lon": -159.12,
+    "name": "Kobuk Valley National Park",
+    "park_code": "kova",
+    "states": "AK",
+    "topics": [
+      "Arctic",
+      "Tundra",
+      "Glaciers",
+      "Wildlife",
+      "Wilderness"
+    ],
+    "weather_info": "No roads, no trails, no facilities."
+  },
+  {
+    "activities": [
+      "Backcountry Hiking",
+      "Wildlife Watching",
+      "Flightseeing",
+      "Mountaineering",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Active volcanoes, turquoise lakes, salmon runs and coastal brown bears in a roadless landscape across Cook Inlet from Anchorage. Access by small plane.",
+    "designation": "National Park",
+    "lat": 60.41,
+    "lon": -154.32,
+    "name": "Lake Clark National Park and Preserve",
+    "park_code": "lacl",
+    "states": "AK",
+    "topics": [
+      "Arctic",
+      "Tundra",
+      "Glaciers",
+      "Wildlife",
+      "Wilderness"
+    ],
+    "weather_info": "Access by small plane."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [],
+    "description": "All four types of volcano in one place, with boiling mudpots, fumaroles, sulphur works and clear mountain lakes. Enormous winter snowpack keeps the main road closed into early summer.",
+    "designation": "National Park",
+    "lat": 40.49,
+    "lon": -121.51,
+    "name": "Lassen Volcanic National Park",
+    "park_code": "lavo",
+    "states": "CA",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Enormous winter snowpack keeps the main road closed into early summer."
+  },
+  {
+    "activities": [
+      "Cave Tours",
+      "Hiking",
+      "Camping",
+      "Birdwatching"
+    ],
+    "alerts": [],
+    "description": "The longest known cave system in the world, with over 400 mapped miles of passages beneath a green river valley of oak and hickory forest. Cave temperature is a constant 54 degrees.",
+    "designation": "National Park",
+    "lat": 37.19,
+    "lon": -86.1,
+    "name": "Mammoth Cave National Park",
+    "park_code": "maca",
+    "states": "KY",
+    "topics": [
+      "Caves and Karst",
+      "Geology",
+      "Bats",
+      "Underground"
+    ],
+    "weather_info": "Cave temperature is a constant 54 degrees."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Nearly 5,000 archaeological sites including spectacular Ancestral Pueblo cliff dwellings tucked beneath canyon overhangs on a high pinyon-juniper mesa. Many sites require steep ladders; most close in winter.",
+    "designation": "National Park",
+    "lat": 37.23,
+    "lon": -108.46,
+    "name": "Mesa Verde National Park",
+    "park_code": "meve",
+    "states": "CO",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Many sites require steep ladders; most close in winter."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [
+      {
+        "category": "Information",
+        "description": "Vehicle reservations are required for the Paradise and Sunrise corridors during peak summer hours.",
+        "title": "Timed entry reservations required in summer"
+      }
+    ],
+    "description": "An enormous active glaciated stratovolcano looming over old-growth forest and famous subalpine wildflower meadows. The most heavily glaciated peak in the contiguous United States. Very wet, with huge snowfall.",
+    "designation": "National Park",
+    "lat": 46.85,
+    "lon": -121.75,
+    "name": "Mount Rainier National Park",
+    "park_code": "mora",
+    "states": "WA",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Very wet, with huge snowfall."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Jagged peaks, over 300 glaciers and deep forested valleys in one of the most rugged and least developed ranges in the country. Mostly trail and climbing access.",
+    "designation": "National Park",
+    "lat": 48.77,
+    "lon": -121.3,
+    "name": "North Cascades National Park",
+    "park_code": "noca",
+    "states": "WA",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Mostly trail and climbing access."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Tropical rainforest, coral reefs and steep volcanic ridges across three South Pacific islands, managed with Samoan villages. Hot, humid and rainy year round.",
+    "designation": "National Park",
+    "lat": -14.26,
+    "lon": -170.68,
+    "name": "National Park of American Samoa",
+    "park_code": "npsa",
+    "states": "AS",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Hot, humid and rainy year round."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Tidepooling",
+      "Kayaking",
+      "Beachcombing",
+      "Wildlife Watching",
+      "Camping"
+    ],
+    "alerts": [],
+    "description": "Three distinct worlds in one park: wild Pacific beaches, temperate rainforest dripping with moss, and glaciated interior peaks. One of the wettest places in the lower 48.",
+    "designation": "National Park",
+    "lat": 47.8,
+    "lon": -123.6,
+    "name": "Olympic National Park",
+    "park_code": "olym",
+    "states": "WA",
+    "topics": [
+      "Coasts and Shorelines",
+      "Tidepools",
+      "Marine Life",
+      "Beaches",
+      "Ocean"
+    ],
+    "weather_info": "One of the wettest places in the lower 48."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Brilliantly colored petrified logs and Triassic fossils scattered across the banded badlands of the Painted Desert, with Route 66 and petroglyph sites. Dry, windy, hot summers and cold winters.",
+    "designation": "National Park",
+    "lat": 34.91,
+    "lon": -109.81,
+    "name": "Petrified Forest National Park",
+    "park_code": "pefo",
+    "states": "AZ",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Dry, windy, hot summers and cold winters."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [],
+    "description": "Eroded remnants of an ancient volcano moved along the San Andreas Fault, with rock spires, talus caves and reintroduced California condors. Very hot in summer; spring wildflowers are the draw.",
+    "designation": "National Park",
+    "lat": 36.49,
+    "lon": -121.16,
+    "name": "Pinnacles National Park",
+    "park_code": "pinn",
+    "states": "CA",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Very hot in summer; spring wildflowers are the draw."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "The tallest trees on earth in a cool coastal fog belt, with prairies, oak woodlands and forty miles of wild shoreline. Mild and damp all year.",
+    "designation": "National Park",
+    "lat": 41.21,
+    "lon": -124.0,
+    "name": "Redwood National and State Parks",
+    "park_code": "redw",
+    "states": "CA",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Mild and damp all year."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [
+      {
+        "category": "Road Closure",
+        "description": "Trail Ridge Road is closed by snow between Many Parks Curve and the Colorado River trailhead. Typical reopening is late May.",
+        "title": "Trail Ridge Road closed for the season"
+      }
+    ],
+    "description": "Alpine tundra above treeline reached by the highest continuous paved road in the country, with elk, bighorn sheep, glacial lakes and over sixty peaks above 12,000 feet. Trail Ridge Road is closed by snow most of the year.",
+    "designation": "National Park",
+    "lat": 40.4,
+    "lon": -105.58,
+    "name": "Rocky Mountain National Park",
+    "park_code": "romo",
+    "states": "CO",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "Trail Ridge Road is closed by snow most of the year."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Dense forests of giant saguaro cactus across two desert districts flanking Tucson, with petroglyphs and a cool sky-island forest on the Rincon crest. Winter and early spring are warm and ideal; summer is extreme.",
+    "designation": "National Park",
+    "lat": 32.25,
+    "lon": -110.5,
+    "name": "Saguaro National Park",
+    "park_code": "sagu",
+    "states": "AZ",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Winter and early spring are warm and ideal; summer is extreme."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "Home to the largest trees on earth in the Giant Forest, plus deep canyons, marble caverns and the highest summit in the contiguous United States. Snow closes the high roads in winter.",
+    "designation": "National Park",
+    "lat": 36.49,
+    "lon": -118.57,
+    "name": "Sequoia National Park",
+    "park_code": "sequ",
+    "states": "CA",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Snow closes the high roads in winter."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Birdwatching",
+      "Scenic Driving",
+      "Horseback Riding",
+      "Fishing"
+    ],
+    "alerts": [],
+    "description": "A long narrow park along the Blue Ridge, strung together by Skyline Drive with waterfalls, hollows, overlooks and regrowing Appalachian forest. Spectacular autumn color; humid summers.",
+    "designation": "National Park",
+    "lat": 38.53,
+    "lon": -78.35,
+    "name": "Shenandoah National Park",
+    "park_code": "shen",
+    "states": "VA",
+    "topics": [
+      "Forests",
+      "Old Growth",
+      "Waterfalls",
+      "Wildlife",
+      "Trees"
+    ],
+    "weather_info": "Spectacular autumn color; humid summers."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "Colorful Little Missouri badlands and rolling prairie with free-roaming bison, wild horses and prairie dog towns, in the landscape that shaped a young Roosevelt. Hot summers, severe winters.",
+    "designation": "National Park",
+    "lat": 46.98,
+    "lon": -103.54,
+    "name": "Theodore Roosevelt National Park",
+    "park_code": "thro",
+    "states": "ND",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Hot summers, severe winters."
+  },
+  {
+    "activities": [
+      "Kayaking",
+      "Snorkeling",
+      "Boat Tours",
+      "Hiking",
+      "Camping",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "Covering most of St. John, with white sand beaches, snorkeling trails over coral reefs, sugar plantation ruins and dry tropical forest. Warm and breezy, with a late-summer hurricane season.",
+    "designation": "National Park",
+    "lat": 18.34,
+    "lon": -64.73,
+    "name": "Virgin Islands National Park",
+    "park_code": "viis",
+    "states": "VI",
+    "topics": [
+      "Islands",
+      "Marine Life",
+      "Coral Reefs",
+      "Coasts and Shorelines"
+    ],
+    "weather_info": "Warm and breezy, with a late-summer hurricane season."
+  },
+  {
+    "activities": [
+      "Birdwatching",
+      "Kayaking",
+      "Canoeing",
+      "Boat Tours",
+      "Fishing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "A water-based park of interconnected lakes, bogs and rocky islands on the Canadian border, traveled by boat in summer and ice road in winter. Northern lights and loons.",
+    "designation": "National Park",
+    "lat": 48.5,
+    "lon": -92.88,
+    "name": "Voyageurs National Park",
+    "park_code": "voya",
+    "states": "MN",
+    "topics": [
+      "Wetlands",
+      "Swamps",
+      "Birds",
+      "Marine Life",
+      "Water Quality"
+    ],
+    "weather_info": "Northern lights and loons."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Stargazing",
+      "Scenic Driving",
+      "Wildflower Viewing",
+      "Backcountry Hiking"
+    ],
+    "alerts": [],
+    "description": "The world's largest gypsum dune field, 275 square miles of brilliant white sand in the Tularosa Basin. Dunes are easy to reach and nearly level, though full sun is relentless.",
+    "designation": "National Park",
+    "lat": 32.78,
+    "lon": -106.17,
+    "name": "White Sands National Park",
+    "park_code": "whsa",
+    "states": "NM",
+    "topics": [
+      "Desert",
+      "Arid Lands",
+      "Dark Night Skies",
+      "Geology",
+      "Wilderness"
+    ],
+    "weather_info": "Dunes are easy to reach and nearly level, though full sun is relentless."
+  },
+  {
+    "activities": [
+      "Cave Tours",
+      "Hiking",
+      "Camping",
+      "Birdwatching"
+    ],
+    "alerts": [],
+    "description": "One of the world's longest and most complex caves, famous for delicate boxwork formations, beneath rolling mixed-grass prairie and ponderosa forest with bison and elk.",
+    "designation": "National Park",
+    "lat": 43.6,
+    "lon": -103.42,
+    "name": "Wind Cave National Park",
+    "park_code": "wica",
+    "states": "SD",
+    "topics": [
+      "Caves and Karst",
+      "Geology",
+      "Bats",
+      "Underground"
+    ],
+    "weather_info": "One of the world's longest and most complex caves, famous for delicate boxwork formations, beneath rolling mixed-grass prairie and ponderosa forest with bison and elk."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [],
+    "description": "The largest national park in the United States, bigger than Switzerland, with colliding mountain ranges, enormous glaciers, nine of the sixteen highest US peaks and the historic Kennecott copper mill.",
+    "designation": "National Park",
+    "lat": 61.0,
+    "lon": -142.0,
+    "name": "Wrangell-St. Elias National Park and Preserve",
+    "park_code": "wrst",
+    "states": "AK",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "The largest national park in the United States, bigger than Switzerland, with colliding mountain ranges, enormous glaciers, nine of the sixteen highest US peaks and the historic Kennecott copper mill."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Scenic Driving",
+      "Camping",
+      "Stargazing",
+      "Geology Walks"
+    ],
+    "alerts": [],
+    "description": "The world's first national park, sitting on an active supervolcano with half the planet's geysers, hot springs and mudpots, plus bison, wolves, grizzlies and the Lamar Valley. Most roads close to cars in winter.",
+    "designation": "National Park",
+    "lat": 44.6,
+    "lon": -110.5,
+    "name": "Yellowstone National Park",
+    "park_code": "yell",
+    "states": "WY,MT,ID",
+    "topics": [
+      "Volcanoes",
+      "Lava Flows",
+      "Geothermal Features",
+      "Geology"
+    ],
+    "weather_info": "Most roads close to cars in winter."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Mountain Climbing",
+      "Snowshoeing",
+      "Skiing",
+      "Wildlife Watching"
+    ],
+    "alerts": [
+      {
+        "category": "Road Closure",
+        "description": "Both high-country roads are closed for the winter season and typically reopen between late May and July depending on snowpack.",
+        "title": "Tioga Road and Glacier Point Road closed"
+      }
+    ],
+    "description": "Sheer granite walls, towering waterfalls, giant sequoias and high Sierra meadows. The valley floor is accessible and open all year; Tioga Road and the high country are snowbound most of it.",
+    "designation": "National Park",
+    "lat": 37.86,
+    "lon": -119.54,
+    "name": "Yosemite National Park",
+    "park_code": "yose",
+    "states": "CA",
+    "topics": [
+      "Mountains",
+      "Glaciers",
+      "Alpine Tundra",
+      "Snow",
+      "Wilderness"
+    ],
+    "weather_info": "The valley floor is accessible and open all year; Tioga Road and the high country are snowbound most of it."
+  },
+  {
+    "activities": [
+      "Hiking",
+      "Backpacking",
+      "Canyoneering",
+      "Scenic Driving",
+      "River Rafting",
+      "Photography"
+    ],
+    "alerts": [],
+    "description": "A deep, narrow sandstone canyon with sheer 2,000-foot walls, the Virgin River narrows, hanging gardens and slot canyons. Shuttle access in the main canyon. Hot summers, mild winters, flash flood risk.",
+    "designation": "National Park",
+    "lat": 37.3,
+    "lon": -113.03,
+    "name": "Zion National Park",
+    "park_code": "zion",
+    "states": "UT",
+    "topics": [
+      "Canyons",
+      "Geology",
+      "Erosion",
+      "Rivers and Streams",
+      "Wilderness"
+    ],
+    "weather_info": "Hot summers, mild winters, flash flood risk."
+  }
+]

@@ -1,0 +1,16 @@
+# Happy path: both data sources, and a hard constraint the judge can verify.
+id: warm_march_accessible
+prompt: >
+  Customer 1042 is planning a trip in March. Where should they go?
+must_call: [customer_lookup]
+# Either knowledge-base search is a legitimate way to answer this.
+must_call_any: [parks_search, parks_similar_to]
+must_not_call: [customer_find_by_email]
+rubric:
+  - names at least two parks that appear in the retrieved context
+  - every park it recommends is present in the retrieved context
+  - accounts for the customer's wheelchair accessibility needs
+  # Stated as a plain property of the recommendations. An earlier "either under the limit or
+  # flagged" wording made the judge demand both halves and fail correct answers.
+  - every recommended park has an elevation_ft_min at or below the customer's 5000 ft limit
+min_score: 4
